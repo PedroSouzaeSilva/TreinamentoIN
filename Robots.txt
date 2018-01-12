@@ -1,0 +1,11 @@
+User-agent *
+
+Disallow :/
+Allow: /home
+Allow: /sobre
+Allow: /produtos
+Allow: /catalogo
+Allow: /contato
+Allow: /lojas
+Allow: /news
+Allow: /contato

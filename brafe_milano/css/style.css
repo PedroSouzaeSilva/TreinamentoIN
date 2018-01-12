@@ -39,6 +39,7 @@
 }
 
 .menu-nav a:hover{
+	transition: 0.5s;
 	background: white;
 	color: #252525;
 }
@@ -263,7 +264,7 @@
 
 .locais-item a{
 	display: block;
-	width: 7em;
+	width: 120px;
 	height: 1.2em;
 	padding: 0.6em;
 	text-transform: uppercase;
@@ -280,7 +281,7 @@
 
 .locais-item a:hover{
 	color: #e7e4d8;
-	box-shadow: 8em 0 0 0 #252525 inset;
+	box-shadow: 150px 0 0 0 #252525 inset;
 }
 
 .assine{
@@ -355,12 +356,13 @@
 	font-size: 1.125em;
 	text-align: center;
 	color: white;
-	transition: 0.5s;
+
 }
 
 .assine button:hover{
 	color: black;
 	background: white;
+	transition: 0.4s;
 }
 
 .footer{
